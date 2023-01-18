@@ -1,0 +1,4 @@
+Cosas a mejorar
+
+.El esc no deberia pintarse
+.Los valores ingresados por prompt tiene que guardarse en el array

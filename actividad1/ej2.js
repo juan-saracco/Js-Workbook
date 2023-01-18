@@ -1,0 +1,5 @@
+const capitalArg = "buenos aires"
+const capitalAle = "berlin"
+const capitalUsa = "washington"
+const capitalUru = "montevideo"
+const capitalBr = "brasilia"
